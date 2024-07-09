@@ -1,3 +1,42 @@
 body {
-  background-color: pink;
+  background-color:khaki ;
+  text-align: center;
+  font-size:x-large;
+}
+
+h1 {
+  color: teal;
+  background-color:chocolate;
+  border:  solid 2px black;
+  padding: 5px;
+  margin-right: 700px;
+  margin-left: 700px;
+}
+
+.job1 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color:red;
+  font-weight: 200;
+  font-style: italic;
+  border: solid 8px brown;
+}
+
+
+.job2 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color:green;
+  font-weight: 400;
+  border: dotted 8px purple;
+}
+
+.job3 {
+  font-family:Georgia, 'Times New Roman', Times, serif ;
+  color:blue;
+  font-weight: 600;
+  font-style:inherit;
+  border: double 8px black;
+}
+
+.job1h1 {
+  
 }
